@@ -1,0 +1,27 @@
+
+JS----dynamiclaly typed
+1.Primitive
+--number
+-string
+-boolean
+-undefiend
+--null
+--bigint
+--symbol
+2.Non-Primitive--mutable
+ -object
+ -array
+ -function
+ 
+
+ Types of variable declaration
+ 1.var
+ 2.let
+ 3.const
+ Var------->let
+ 1.reassignmnet
+ 2.scoping
+ #Global scoping
+ #Function Scoping
+ #Block level scopinhg
+ 3.Hoisting
